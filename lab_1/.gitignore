@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+cifar10_data/
+
+# Model weights
+*.pth
+*.pt
+
+# Training outputs
+transfer_learning_outputs/
+
+# macOS
+.DS_Store
