@@ -1,0 +1,27 @@
+{
+  "dataset": "stanfordnlp/imdb",
+  "base_model": "distilbert/distilbert-base-uncased",
+  "seed": 42,
+  "max_length": 256,
+  "epochs": 2,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "validation": {
+    "validation_loss": 0.2552034854888916,
+    "validation_accuracy": 0.9,
+    "validation_f1": 0.899919935948759,
+    "validation_runtime": 15.6412,
+    "validation_samples_per_second": 319.669,
+    "validation_steps_per_second": 20.011,
+    "epoch": 2.0
+  },
+  "test": {
+    "test_loss": 0.2362697869539261,
+    "test_accuracy": 0.90804,
+    "test_f1": 0.9085557455948451,
+    "test_runtime": 77.1865,
+    "test_samples_per_second": 323.891,
+    "test_steps_per_second": 20.25,
+    "epoch": 2.0
+  }
+}

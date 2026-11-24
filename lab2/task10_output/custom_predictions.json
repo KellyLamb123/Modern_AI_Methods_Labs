@@ -1,0 +1,26 @@
+[
+  {
+    "text": "The film combines a moving story with excellent acting and beautiful music.",
+    "predicted_label": "POSITIVE",
+    "negative_probability": 0.009826486930251122,
+    "positive_probability": 0.9901734590530396
+  },
+  {
+    "text": "The film wastes an interesting idea on boring scenes and terrible dialogue.",
+    "predicted_label": "NEGATIVE",
+    "negative_probability": 0.9945849776268005,
+    "positive_probability": 0.005415024701505899
+  },
+  {
+    "text": "I expected a weak story, but the thoughtful ending made the film worthwhile.",
+    "predicted_label": "POSITIVE",
+    "negative_probability": 0.023285649716854095,
+    "positive_probability": 0.9767143726348877
+  },
+  {
+    "text": "The film is not entertaining, and its impressive visuals cannot save the dull plot.",
+    "predicted_label": "NEGATIVE",
+    "negative_probability": 0.9886493682861328,
+    "positive_probability": 0.011350595392286777
+  }
+]
