@@ -1,5 +1,6 @@
 AGENTS.md
-
+REPORT.md 
+HUMANIZE.md
 # Виртуальное окружение второй лабораторной
 lab2/.venv/
 
@@ -11,3 +12,5 @@ __pycache__/
 # Веса модели и промежуточные точки обучения
 lab2/task10_output/checkpoints/
 lab2/task10_output/model/
+
+.gitignore
