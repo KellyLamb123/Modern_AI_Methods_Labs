@@ -1,0 +1,39 @@
+{
+  "kind": "transfer",
+  "config": {
+    "kind": "transfer",
+    "epochs": 3,
+    "learning_rate": 5e-05,
+    "seed": 42,
+    "batch_size": 16,
+    "context": 128,
+    "weight_decay": 0.01,
+    "gradient_clip": 1.0,
+    "warmup_ratio": 0.05,
+    "architecture": null,
+    "data_hashes": {
+      "train": "071e008c7b3fdb2baa414b6dd304c9a6673bd76a221a563dd1dbe0a54b84754c",
+      "validation": "f881d9b1a1a3fec1f03d76146d92ff696d6a8b70085aef0421ab734fad501bc1"
+    }
+  },
+  "device": "mps",
+  "hardware": {
+    "computer": "MacBook Pro 16-inch, November 2024",
+    "chip": "Apple M4 Max",
+    "installed_memory_gb": 48,
+    "macos_from_user": "26.2"
+  },
+  "actual_macos": "26.6.2",
+  "python": "3.12.16",
+  "pytorch": "2.15.0",
+  "trainable_parameters": 81912576,
+  "completed_epochs": 3,
+  "best_epoch": 3,
+  "best_val_loss": 3.6226372980429766,
+  "best_val_perplexity": 37.43616807858219,
+  "baseline_val_perplexity": 89.63059567098477,
+  "training_seconds": 1025.2481793739998,
+  "validation_seconds": 39.57851920799931,
+  "peak_process_rss_gib": 0.9553680419921875,
+  "sampled_peak_mps_driver_gib": 6.1092376708984375
+}

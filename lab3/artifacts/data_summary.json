@@ -1,0 +1,29 @@
+{
+  "dataset": "Salesforce/wikitext",
+  "configuration": "wikitext-2-raw-v1",
+  "tokenizer": "distilbert/distilgpt2",
+  "vocab_size": 50257,
+  "context": 128,
+  "exact_article_overlap": 0,
+  "source_rows": {
+    "train": 36718,
+    "validation": 3760,
+    "test": 4358
+  },
+  "train": {
+    "articles": 629,
+    "tokens": 2391857,
+    "windows": 18686,
+    "evaluated_target_tokens": 2391808,
+    "unused_tail_target_tokens": 48,
+    "tokens_sha256": "071e008c7b3fdb2baa414b6dd304c9a6673bd76a221a563dd1dbe0a54b84754c"
+  },
+  "validation": {
+    "articles": 60,
+    "tokens": 247297,
+    "windows": 1932,
+    "evaluated_target_tokens": 247296,
+    "unused_tail_target_tokens": 0,
+    "tokens_sha256": "f881d9b1a1a3fec1f03d76146d92ff696d6a8b70085aef0421ab734fad501bc1"
+  }
+}

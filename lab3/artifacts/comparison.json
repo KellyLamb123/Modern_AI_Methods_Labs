@@ -1,0 +1,24 @@
+[
+  {
+    "model": "scratch",
+    "best_epoch": 6,
+    "parameters": 6846080,
+    "val_loss": 5.627688123572687,
+    "val_perplexity": 278.01862937137895,
+    "training_minutes": 6.1133445229333345,
+    "validation_minutes": 0.27287854789999527,
+    "peak_process_rss_gib": 0.6016387939453125,
+    "sampled_peak_mps_driver_gib": 2.1131439208984375
+  },
+  {
+    "model": "transfer",
+    "best_epoch": 3,
+    "parameters": 81912576,
+    "val_loss": 3.6226372980429766,
+    "val_perplexity": 37.43616807858219,
+    "training_minutes": 17.08746965623333,
+    "validation_minutes": 0.6596419867999884,
+    "peak_process_rss_gib": 0.9553680419921875,
+    "sampled_peak_mps_driver_gib": 6.1092376708984375
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "kind": "scratch",
+  "config": {
+    "kind": "scratch",
+    "epochs": 6,
+    "learning_rate": 0.0003,
+    "seed": 42,
+    "batch_size": 16,
+    "context": 128,
+    "weight_decay": 0.01,
+    "gradient_clip": 1.0,
+    "warmup_ratio": 0.05,
+    "architecture": {
+      "d_model": 128,
+      "n_heads": 4,
+      "n_layers": 2,
+      "dropout": 0.1
+    },
+    "data_hashes": {
+      "train": "071e008c7b3fdb2baa414b6dd304c9a6673bd76a221a563dd1dbe0a54b84754c",
+      "validation": "f881d9b1a1a3fec1f03d76146d92ff696d6a8b70085aef0421ab734fad501bc1"
+    }
+  },
+  "device": "mps",
+  "hardware": {
+    "computer": "MacBook Pro 16-inch, November 2024",
+    "chip": "Apple M4 Max",
+    "installed_memory_gb": 48,
+    "macos_from_user": "26.2"
+  },
+  "actual_macos": "26.6.2",
+  "python": "3.12.16",
+  "pytorch": "2.15.0",
+  "trainable_parameters": 6846080,
+  "completed_epochs": 6,
+  "best_epoch": 6,
+  "best_val_loss": 5.627688123572687,
+  "best_val_perplexity": 278.01862937137895,
+  "baseline_val_perplexity": 51399.67772862782,
+  "training_seconds": 366.8006713760001,
+  "validation_seconds": 16.372712873999717,
+  "peak_process_rss_gib": 0.6016387939453125,
+  "sampled_peak_mps_driver_gib": 2.1131439208984375
+}

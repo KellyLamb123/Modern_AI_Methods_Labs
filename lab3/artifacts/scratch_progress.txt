@@ -1,0 +1,25 @@
+EPOCH 1
+Prompt: The history of the city
+Strategy: temperature, temperature=0.8, seed=42
+Generated tokens: 64
+Validation PPL: 526.7859
+Continuation:
+ , which was a bar @-@ more than failed to the project . The new would not released on the fuel and act to be been not have an American Bureau of several half of the Miami , and c.@ North car ) , his father and being five @.@ ray . 
+ = = = =
+
+EPOCH 3
+Prompt: The history of the city
+Strategy: temperature, temperature=0.8, seed=42
+Generated tokens: 64
+Validation PPL: 310.0661
+Continuation:
+ of which was a bar @-@ more than parts . The project was a new star , and it was designed to be the eighteenth @-@ scale and its first time . The first time , the c. C. N. Nathan his father and being five @-@ ray . 
+ No. unit was
+
+EPOCH 6
+Prompt: The history of the city
+Strategy: temperature, temperature=0.8, seed=42
+Generated tokens: 64
+Validation PPL: 278.0186
+Continuation:
+ , which was a barter in 1846 . The first place of the U.S.R.S.S. 22 June 12L.S. 13 Salnen was founded at the country 's main part of the 1960s . Her first @-@ year were completed in instance , with four unit with

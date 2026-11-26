@@ -1,0 +1,23 @@
+EPOCH 1
+Prompt: The history of the city
+Strategy: temperature, temperature=0.8, seed=42
+Generated tokens: 64
+Validation PPL: 38.2601
+Continuation:
+ is bound by a series of theories , more generally believed to be derived from a series of observations made during the first half of the eighteenth century . The most eminent of these theories was that of Parkman 's nephew Charles North , a German his father had been dreading of making use of his knowledge , and that the
+
+EPOCH 2
+Prompt: The history of the city
+Strategy: temperature, temperature=0.8, seed=42
+Generated tokens: 64
+Validation PPL: 37.4467
+Continuation:
+ is bound by a series of theories , more generally , than the history of Gladstone . The book 's research into the city 's history is led by its founders and their patrons , who provide insight into the city 's history . It is the focus of the book 's books : a detailed history of the
+
+EPOCH 3
+Prompt: The history of the city
+Strategy: temperature, temperature=0.8, seed=42
+Generated tokens: 64
+Validation PPL: 37.4362
+Continuation:
+ is bound by a series of theories , more generally , than the history of Gladstone . The book 's research into the city 's history is led by its founders and their patrons , who provide insight into the city 's history . It is the focus of the present @-@ day Gladstone University History Month

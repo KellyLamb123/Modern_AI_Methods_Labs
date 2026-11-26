@@ -1,0 +1,11 @@
+{
+  "d_model": 128,
+  "n_heads": 4,
+  "n_layers": 2,
+  "dropout": 0.1,
+  "context": 128,
+  "vocab_size": 50257,
+  "trainable_parameters": 6846080,
+  "weight_tying": true,
+  "device_used_for_check": "mps"
+}

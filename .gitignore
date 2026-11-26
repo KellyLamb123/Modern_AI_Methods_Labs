@@ -1,16 +1,22 @@
 AGENTS.md
-REPORT.md 
+REPORT.md
 HUMANIZE.md
-# Виртуальное окружение второй лабораторной
+
+# Виртуальные окружения
 lab2/.venv/
+lab3/.venv/
 
 # Служебные файлы Python и macOS
 __pycache__/
 *.pyc
 .DS_Store
 
-# Веса модели и промежуточные точки обучения
+# Веса модели и промежуточные точки обучения ЛР 2
 lab2/task10_output/checkpoints/
 lab2/task10_output/model/
+
+# Веса моделей и промежуточные точки обучения ЛР 3
+lab3/artifacts/checkpoints/
+lab3/artifacts/models/
 
 .gitignore

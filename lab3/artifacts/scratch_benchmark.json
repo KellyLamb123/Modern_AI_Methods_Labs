@@ -1,0 +1,27 @@
+{
+  "config": {
+    "kind": "scratch",
+    "epochs": 6,
+    "learning_rate": 0.0003,
+    "seed": 42,
+    "batch_size": 16,
+    "context": 128,
+    "weight_decay": 0.01,
+    "gradient_clip": 1.0,
+    "warmup_ratio": 0.05,
+    "architecture": {
+      "d_model": 128,
+      "n_heads": 4,
+      "n_layers": 2,
+      "dropout": 0.1
+    },
+    "data_hashes": {
+      "train": "071e008c7b3fdb2baa414b6dd304c9a6673bd76a221a563dd1dbe0a54b84754c",
+      "validation": "f881d9b1a1a3fec1f03d76146d92ff696d6a8b70085aef0421ab734fad501bc1"
+    }
+  },
+  "device": "mps",
+  "seconds_per_training_step": 0.03435267780002202,
+  "validation_seconds": 2.391980957999749,
+  "estimated_train_and_validation_seconds": 255.09545177055278
+}

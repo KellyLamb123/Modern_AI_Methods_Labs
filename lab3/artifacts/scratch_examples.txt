@@ -1,0 +1,16 @@
+greedy
+Prompt: The history of the city
+ 's first time . 
+ The first time of the United States , the first time of the United States , the United States , and the United States . The first time was the first part of the first part of the United States . The first time of the United States , the United States , the first time of
+
+temperature
+Prompt: The history of the city
+ , which was a barter in 1846 . The first place of the U.S.R.S.S. 22 June 12L.S. 13 Salnen was founded at the country 's main part of the 1960s . Her first @-@ year were completed in instance , with four unit with
+
+top_k
+Prompt: The history of the city
+ , which was a large @-@ important .
+
+top_p
+Prompt: The history of the city
+ , which was a barter in 1846 .

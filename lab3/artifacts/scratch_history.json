@@ -1,0 +1,136 @@
+[
+  {
+    "epoch": 0,
+    "train_loss": null,
+    "val_loss": 10.847387181552547,
+    "val_perplexity": 51399.67772862782,
+    "train_seconds": 0.0,
+    "validation_seconds": 2.097921457999746
+  },
+  {
+    "epoch": 1,
+    "train_loss": 7.28865059532395,
+    "val_loss": 6.266794122770953,
+    "val_perplexity": 526.7858571385309,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 59.466385125000215,
+    "validation_seconds": 2.255471458000102,
+    "learning_rate_after_epoch": 0.0002889647627857252,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " , which was a bar @-@ more than failed to the project . The new would not released on the fuel and act to be been not have an American Bureau of several half of the Miami , and c.@ North car ) , his father and being five @.@ ray . \n = = = ="
+    }
+  },
+  {
+    "epoch": 2,
+    "train_loss": 5.942973253725173,
+    "val_loss": 5.889939890638395,
+    "val_perplexity": 361.3835611842518,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 58.2052202079999,
+    "validation_seconds": 2.302768042000025,
+    "learning_rate_after_epoch": 0.0002388192786101259,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " , which was a barter in the series . The region is the low @-@ 8 million ( 17 % ) is the eighteenth @-@ speaking and its Salin 's made to provide the c.@ North bands ) , his father and being five @-@ ray . \n The following unit was"
+    }
+  },
+  {
+    "epoch": 3,
+    "train_loss": 5.588498276407658,
+    "val_loss": 5.736785592499727,
+    "val_perplexity": 310.0661285085559,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 63.46178899999995,
+    "validation_seconds": 2.5095070000002124,
+    "learning_rate_after_epoch": 0.00016237205205372047,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " of which was a bar @-@ more than parts . The project was a new star , and it was designed to be the eighteenth @-@ scale and its first time . The first time , the c. C. N. Nathan his father and being five @-@ ray . \n No. unit was"
+    }
+  },
+  {
+    "epoch": 4,
+    "train_loss": 5.3868680962859905,
+    "val_loss": 5.656831775886425,
+    "val_perplexity": 286.24033092970205,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 62.92082654200021,
+    "validation_seconds": 2.245066792000216,
+    "learning_rate_after_epoch": 8.22611329867368e-05,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " , which was a barter in the county . The region is the Missouri River and would be maintained it in the early as the North Navy . The capital were located in several days of the Park , and c. C. N. Nathan his father and Ottoman concern . The were completed a Battle of the following unit with"
+    }
+  },
+  {
+    "epoch": 5,
+    "train_loss": 5.277540526859104,
+    "val_loss": 5.631438655142459,
+    "val_perplexity": 279.06330483740277,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 60.29518604199984,
+    "validation_seconds": 2.3955354159998024,
+    "learning_rate_after_epoch": 2.220948773091668e-05,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " , which was a barter in 1846 . The first industry were also agreed and would not be considered an Yamatoised in the eighteenth century . In an American political networks were released in the Park , the late December 2015 , including a single his father and being five @-@ ray . \n In the unit was"
+    }
+  },
+  {
+    "epoch": 6,
+    "train_loss": 5.233090454590699,
+    "val_loss": 5.627688123572687,
+    "val_perplexity": 278.01862937137895,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 62.45126445899996,
+    "validation_seconds": 2.566442707999613,
+    "learning_rate_after_epoch": 0.0,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " , which was a barter in 1846 . The first place of the U.S.R.S.S. 22 June 12L.S. 13 Salnen was founded at the country 's main part of the 1960s . Her first @-@ year were completed in instance , with four unit with"
+    }
+  }
+]

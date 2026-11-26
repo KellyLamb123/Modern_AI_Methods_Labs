@@ -1,0 +1,222 @@
+STRATEGY: greedy
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ is a mystery . The city is a city of the people of the city , and the city is a city of the people of the city . 
+ The city is a city of the people of the city , and the city is a city of the people of the city . 
+
+ = = = = The city
+
+STRATEGY: greedy
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by the company , and was released in the United States on October 1 , 2008 . The game was released in the United Kingdom on October 1 , 2008 . 
+
+ = = Release = = 
+
+ The game was released on October 1 , 2008 . The game was released in the United Kingdom on October 1 , 2008 .
+
+STRATEGY: greedy
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ of the series is the protagonist , who is voiced by J.J. Abrams . The series is set in the fictional fictional world of the fictional United States , where the fictional United States government is controlled by the government of the United States . The series is set in the fictional world of the fictional United States , where the
+
+STRATEGY: temperature
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ is bound by a series of theories , more generally , than the history of Gladstone . The book 's research into the city 's history is led by its founders and their patrons , who provide insight into the city 's history . It is the focus of the present @-@ day Gladstone University History Month
+
+STRATEGY: temperature
+SEED: 43
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ was documented in a letter written by John Henry Boswell , a physician and pioneer of the use of wine . It was discovered in the early years of his life , and in what is now York and Poole , the oldest known place in the city . The town was chosen after King Henry II 's death and his
+
+STRATEGY: temperature
+SEED: 44
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ 's development is an important source of inspiration for high school and secondary school students of all ages . 
+ Urban planning has been considered by local government officials . The city has two main highways : the Greek LRT Kontor Road and the Greek LaLine Road . The northern north @-@ west segment of the
+
+STRATEGY: temperature
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by Jeff Blackman , creator of the popular underground Guitar Hero series , and then again by Publishing House . Blackman 's previous games included Guitar Hero V and Guitar Hero III , as well as Guitar Hero II and Guitar Hero III . Nathan Stewart , who designed the game , were the lead designer of the game , and
+
+STRATEGY: temperature
+SEED: 43
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by Capcom in collaboration with Capcom and Capcom Studios , and was developed by Capcom 's Guy @-@up team . It was released in Japan on March 28 , 1992 in North America and in Europe on March 31 , 1997 in North America and Europe on March 28 , 1997 . In the United States , it was released
+
+STRATEGY: temperature
+SEED: 44
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by Gary Delano in 1982 . It was a high @-@ caliber shooter that generated significantly more replay value than the previous game , and was far less expensive than the previous two . They have also stated that they intended to focus on the most basic aspects of the game , although many of the changes have been made in
+
+STRATEGY: temperature
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ , which was a baritone in his early days , is the antagonist of a series of films . 
+ The character is the eighteenth @-@ century American Indian Saloonist , made famous by the late American writer and illustrator Robert Stewart . He is one of the most famous American Indians ( originally English @-
+
+STRATEGY: temperature
+SEED: 43
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ was Jessica Wilson . He had two daughters , Zoe Too , and Jill and Alexis White . They were also cast together . They were the first LGBT individuals to play a role in American television , though and did not perform formally in the U.S. . Wilson and White began to plan and perform their first acting roles under
+
+STRATEGY: temperature
+SEED: 44
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ of the book is an eight @-@ year high school football coach named Al Bui . 
+ For the first year of his sixth year at the school , he was offered the football scholarship at a school to be part of the team 's football team . He was employed as a substitute for the team 's
+
+STRATEGY: top_k
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ is summarized by a survey commissioned in 1846 . Since its independence from the Umpires , the site has been considered as the birthplace of the Irish capital and its associated trading ground . 
+ In Ireland , the city was known locally as the city after being one of the most important towns in Ireland , following the U
+
+STRATEGY: top_k
+SEED: 43
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ was documented in a letter written by John Henry Pugh , a physician and a surgeon in 1795 . By then , the city was in the throes of a civil war , and had to sell its agricultural land , where it had its industrial and commercial needs . However , a series of attempts were made to restore the
+
+STRATEGY: top_k
+SEED: 44
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ include the development of an eight @-@ room high school and a playground , both of which may have been converted into a park that accommodated up to 100 children . The two campuses were both founded by the Massachusetts Institute of Technology , and are currently the campus of the University of Washington 's College of Arts and Sciences
+
+STRATEGY: top_k
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by Polynesia Games 's Chris Gray . 
+ In the third year of its development , the game 's development team was split into two teams , and with the main game being made by Square 's Mike Cincy . The game was designed using all the hardware Microsoft had to offer ( including the Xbox One
+
+STRATEGY: top_k
+SEED: 43
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by Capcom in collaboration with Capcom and Capcom Studios , and was developed by Atlus . The first game for the PSP was a live action game published in 2011 , and was released separately and in both of its platforms . GameStop considered the game 's single @-@ player shooter series and its predecessor as a portable shooter
+
+STRATEGY: top_k
+SEED: 44
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ for the PlayStation Vita in 2004 . It was a remake of the Japanese series Game Boy ( もいうのバーキュのアップ . The PlayStation Portable ) and was released in 1999 . It was released on November 30 , 2008 . It was released in Japan on the PS Vita and PlayStation Portable in
+
+STRATEGY: top_k
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ , which was a female @-@ male character , is the antagonist . The title refers to the protagonist 's role as the hero , not because he is a bad boy or a bad guy , but because his backstory as a character is his true story . A large amount were seen in the series , including a 2008
+
+STRATEGY: top_k
+SEED: 43
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ was Marlene ( Carolina Brown ) , portrayed by Chris Pine in The Sixth Sense and Jennifer Lawrence in The Sixth Series . Nicole was first cast in the series , and in 2009 and 2010 , and after the series was released , Nicole had been cast in the season premiere of season two and was cast as Jason Aldean
+
+STRATEGY: top_k
+SEED: 44
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ of the book is an outlaw musician who comes under intense pressure and sometimes makes false statements about his business dealings . " The film begins by talking to a girl . The narrator tells her that he was selling a " drug " on eBay , and she realizes that the girl is buying drugs for the entertainment , and he then tells
+
+STRATEGY: top_p
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 11
+CONTINUATION:
+ is bound by a barter 's will .
+
+STRATEGY: top_p
+SEED: 43
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ was documented in a letter written by John Henry Boswell , titled Denarium et ii Jerome , a commentary on the inscriptions of the first years of his reign , and in what Edward Spleiman wrote in 1608 , attributed to its authors : The patron saint of London , or the lord of England , or Pope
+
+STRATEGY: top_p
+SEED: 44
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ include the Earls of Antioch , Constantine , Pompey , and Cipissian ( named after Jesus ) . Other early accounts that mention the original story include the Legnum of Antioch and the Dweyd of Krak des Iacintans . 
+ The old @-@ fashioned Maegor of Rome
+
+STRATEGY: top_p
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by Jeff Blackwell , creator of the popular underground Guitar Hero series , and then again by Ward Wilde , an animator . Other games that included Guitar Hero were inspired by several musical genres : Barbarian , Barbarian , Dire Carchar , Sgt. Pepper and Dance Magic . Guitar Hero was a computer @-@ generated game
+
+STRATEGY: top_p
+SEED: 43
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by Hornblad Studios . The game was developed by Watchdogs in partnership with award @-@ winning game Skylanders : Origins . Hornblad 's publishers suggested that the game had to keep its publisher to a certain number of its units , because the console had to have two or more units to deliver on the
+
+STRATEGY: top_p
+SEED: 44
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ for the PlayStation Vita in 2004 . It was a high @-@ definition high @-@ definition title designed to be played by hand ; however , Atlus requested that only two or three of the PC version of the game be ported on a dedicated motherboard . However , Sony president and developer Shinji Hashimoto refused to open
+
+STRATEGY: top_p
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ , which was a barter in the series , was approached by VanDerWerff , who wanted an actor like Anderson to play Grohl , Thomas and Taylor . Anderson was approached by Park , who wanted actors like Anderson to play Sgt . Pepper and Hartman . They were interested in acting roles , so Anderson agreed
+
+STRATEGY: top_p
+SEED: 43
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ was Jessica Wilson . He had two male actresses , Kelly Sheridan , Denise Murphy , Sarah Green and Rebecca Neill . They both worked in San Diego , Nevada , and in Los Angeles , California . He was an established star on Good @-@ Day , and had her appear in the fourth season as Storm Katana
+
+STRATEGY: top_p
+SEED: 44
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ of the book is an eight @-@ year @-@ old girl ( Ōita 's name is Kazuki ) that frequents the villages . The protagonist , known as Jiyo , is to Kōji Nishikori , who has died aged 92 ( 164 years ) , and who is pregnant

@@ -1,0 +1,234 @@
+STRATEGY: greedy
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ 's first time . 
+ The first time of the United States , the first time of the United States , the United States , and the United States . The first time was the first part of the first part of the United States . The first time of the United States , the United States , the first time of
+
+STRATEGY: greedy
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by the game . 
+ The game was the first game 's first game 's first game 's first game 's first game 's first game 's first game . 
+ The game was the first game 's first game 's first game 's first game 's first game 's first
+
+STRATEGY: greedy
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ , and the film was a " , and " , and " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " , " ,
+
+STRATEGY: temperature
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ , which was a barter in 1846 . The first place of the U.S.R.S.S. 22 June 12L.S. 13 Salnen was founded at the country 's main part of the 1960s . Her first @-@ year were completed in instance , with four unit with
+
+STRATEGY: temperature
+SEED: 43
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ 's freshly Avalanche . For the rest of this year , the light and the AN Road was a significant variant of the hills in the first time of the establishment of the city . Located in order and its passage of the Russian Civil War , the Mendelard and Gwen . In the war , the cemetery could be
+
+STRATEGY: temperature
+SEED: 44
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ . 
+ In an surrounding Welsh : The fort was a length 400 men ( 45 m ) may have been converted from 6 mi ( 5 km ) demoudar . The river or Jairium pit , to K48 m ) is a 6th centuries when it was employed in the defence of the Elig @
+
+STRATEGY: temperature
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ by which was a barter in the series . The first song was also agreed and would not be included in a week in the eighteenth @-@ round and its first time . The song was marked at the game of North Carolina , Nathan his top @-@ time of the tie @-@ yard game unit with
+
+STRATEGY: temperature
+SEED: 43
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ in the 2003 . Every sports are reported that this is available for the draw with a light @-@ game . The game was the game for a goal of the 3 – 0 and 76 to 2 – 5 – 5 @,@ 000 units would go 22 . However , the series and the injuries had been decided to
+
+STRATEGY: temperature
+SEED: 44
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ for the US $ 1 @,@ 000 a high million length 400 games ( 45 m ) in the 22 @,@ 000 million ) , although demoudar had been removed from the network , pit , to be all of the last five @-@ game objects . 
+ The game , the press became fully
+
+STRATEGY: temperature
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ material and the series 's number of the film . A song was also agreed and would not be included in a week in the eighteenth @-@ speaking film , and several episodes of the episode , and was shown on North bands ) , his father and being written after the episode was a instance ( " Crazy in the
+
+STRATEGY: temperature
+SEED: 43
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ was built in the Master . The DuMont died in August 2011 , and his award for the game . By the episode was released during the time of his long @-@ year and piano in a high figures of the same time . 
+
+ = = Plot = 
+
+ In her life , she is a time under
+
+STRATEGY: temperature
+SEED: 44
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ . 
+ In an unusual series of The song high path is 400 men ( 45 m ) is a negative and as well as a story witness to demoud de Grrifar and she was pit , to be all of the last time . This was composed by the stunt @-@ by the press , in
+
+STRATEGY: top_k
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 11
+CONTINUATION:
+ , which was a large @-@ important .
+
+STRATEGY: top_k
+SEED: 43
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ was built in 2005 , which are established in the United States or in the early 1990s and a significant status . The city was the first time of the New York was named after an additional field and to the British @-@ based on the New Jersey , and their time . In June 17 November 18 , he finished
+
+STRATEGY: top_k
+SEED: 44
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ . 
+
+ = = = Critical reception = 
+
+ The original was made on February 2010 . The second series 's film was also recorded in Chains was a group of an name of the song at number of the album on April 2003 . 
+
+ = = Filmography = 
+
+ The Billboard Top 2 : 8 in
+
+STRATEGY: top_k
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 11
+CONTINUATION:
+ by which was a $ 14 in the series .
+
+STRATEGY: top_k
+SEED: 43
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ in Japan as a commercial career after their final , it was set in the club . The first game was sold the first @-@ game for a goal of the ball in the end of the third to the game , where he had had been made by the season at 2 . In the fourth time , it was finished
+
+STRATEGY: top_k
+SEED: 44
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ for a few days in the series of the UK season . On October , it had no @-@ time two @-@ year run for the time . The first match , the following day , a result of the film has appeared on July 4 . The game was released from the UK in the first @-@
+
+STRATEGY: top_k
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ , which was a female @-@ like long . A song wrote that a new story was released on November 5 , 2005 . The series included " In an interview with several episodes of the episode , it was used to a series of The song on the album 's most successful series . 
+ No. 2 to
+
+STRATEGY: top_k
+SEED: 43
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ was built in 2005 , which are found in this is very little in the same day and it as much of the episode : " They are no " I had been able to be an additional to keep to the show , where it had had been made by the season . As a series , the song is a time @
+
+STRATEGY: top_k
+SEED: 44
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ . 
+ In an early 1980s , a high range and was made back of these people who have been killed . The number of the two men had a group of a two or three @-@ level to be used to be on five @-@ place in the year @-@ time of the three @
+
+STRATEGY: top_p
+SEED: 42
+PROMPT: The history of the city
+NEW TOKENS: 11
+CONTINUATION:
+ , which was a barter in 1846 .
+
+STRATEGY: top_p
+SEED: 43
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ was built in 2005 , sports and DuMont , in cities or in 1983 – award for people under the 1980s . In September 3 , he was constructed into a 3 in 1952 and piano in and which was an successful member of London , units would go 22 . However , a series and characterized by pilots , and other
+
+STRATEGY: top_p
+SEED: 44
+PROMPT: The history of the city
+NEW TOKENS: 64
+CONTINUATION:
+ government . Notonic in the series of the fort became a length in the Missouri 's significantly fired at 22 @,@ 000 mi ) and 550 sides . The timber approached water or Jair 's lumber to K48 , but finally achieved 6th centuries when they were employed in the defence of the Elig @
+
+STRATEGY: top_p
+SEED: 42
+PROMPT: The game was developed
+NEW TOKENS: 11
+CONTINUATION:
+ by which was a barter in the series .
+
+STRATEGY: top_p
+SEED: 43
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ in Japan as a power sports chain , his hair is available or accurate draw driver award for people under the 1980s . In September 3 , he was constructed into a 3 – 11 and 76 in and 5 – 16 , reaching number 10 @.@ 10 in the 1950s . In the fourth time , it could need
+
+STRATEGY: top_p
+SEED: 44
+PROMPT: The game was developed
+NEW TOKENS: 64
+CONTINUATION:
+ for a GA committee in the series for over a high path length race , high exposure ( significantly fired lb ) . Other content to operate into expansion units was active for timber and water or repeat network , then struck to be considering their behavior . 
+
+ = = Film = = 
+
+ The game , and Elfort '
+
+STRATEGY: top_p
+SEED: 42
+PROMPT: The main character
+NEW TOKENS: 11
+CONTINUATION:
+ material and produced a barter in the series .
+
+STRATEGY: top_p
+SEED: 43
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ was built in 2005 , sports and DuMont doubled in cities or in 1983 . The fleet was under the 1980s , but then was enforced in 1876 , and was in 1952 and piano in and to the majority , reaching number of its units would go 22 years . As a series , the leadership , it could need
+
+STRATEGY: top_p
+SEED: 44
+PROMPT: The main character
+NEW TOKENS: 64
+CONTINUATION:
+ . 
+ In an surrounding series of The song wrote that the race , Alkan 's biearances expressed her mother 's writing story , although he recalled The Guardian said to the Javi 's " to K48 , but finally achieved The bishop called I think [ too dent 'aves and Elig @

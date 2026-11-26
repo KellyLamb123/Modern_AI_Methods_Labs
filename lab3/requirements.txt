@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+nltk
+gensim
+torch>=2.6
+transformers
+datasets
+accelerate
+matplotlib

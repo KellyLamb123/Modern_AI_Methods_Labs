@@ -1,0 +1,73 @@
+[
+  {
+    "epoch": 0,
+    "train_loss": null,
+    "val_loss": 4.49569673123567,
+    "val_perplexity": 89.63059567098477,
+    "train_seconds": 0.0,
+    "validation_seconds": 9.364801624999927
+  },
+  {
+    "epoch": 1,
+    "train_loss": 3.8225510343422817,
+    "val_loss": 3.644407273819728,
+    "val_perplexity": 38.260088373341645,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 332.08492954099984,
+    "validation_seconds": 9.80477187499946,
+    "learning_rate_after_epoch": 3.9803213101687655e-05,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " is bound by a series of theories , more generally believed to be derived from a series of observations made during the first half of the eighteenth century . The most eminent of these theories was that of Parkman 's nephew Charles North , a German his father had been dreading of making use of his knowledge , and that the"
+    }
+  },
+  {
+    "epoch": 2,
+    "train_loss": 3.5601701939576804,
+    "val_loss": 3.6229180356730586,
+    "val_perplexity": 37.44667929506589,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 331.66887662499994,
+    "validation_seconds": 9.712895540999853,
+    "learning_rate_after_epoch": 1.37101888311228e-05,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " is bound by a series of theories , more generally , than the history of Gladstone . The book 's research into the city 's history is led by its founders and their patrons , who provide insight into the city 's history . It is the focus of the book 's books : a detailed history of the"
+    }
+  },
+  {
+    "epoch": 3,
+    "train_loss": 3.471992933021602,
+    "val_loss": 3.6226372980429766,
+    "val_perplexity": 37.43616807858219,
+    "train_target_tokens": 2391808,
+    "validation_target_tokens": 247296,
+    "train_seconds": 361.49437320800007,
+    "validation_seconds": 10.696050167000067,
+    "learning_rate_after_epoch": 0.0,
+    "sample": {
+      "prompt": "The history of the city",
+      "strategy": "temperature",
+      "parameters": {
+        "temperature": 0.8
+      },
+      "seed": 42,
+      "new_tokens": 64,
+      "continuation": " is bound by a series of theories , more generally , than the history of Gladstone . The book 's research into the city 's history is led by its founders and their patrons , who provide insight into the city 's history . It is the focus of the present @-@ day Gladstone University History Month"
+    }
+  }
+]
